@@ -23,4 +23,15 @@ I could smell the post-translation stench of returning to my home planet
 Varsh.
 
 "Take up your complaints with the Evocators, you have been given a
-promotion to prachen
+promotion to trichal, void knows why." Corrupter Sh'arc said with
+contempt.
+
+"The Evocators can eat those promotion orders, for all I care about
+them. I'm about to be through with this shady shitshow of an
+organization and moving on with my life. Tell them to write, and go
+vigorously fuck themselves with a dull rusty spoon." I said with
+broiling anger, understanding that my dreams of retirement from the
+Overarch were to be put on hold indefinitely.
+
+Promotion in the Overarch forces, especially in the mid-ranks of
+enlisted was rarely time for celebration.

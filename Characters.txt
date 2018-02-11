@@ -1,12 +1,13 @@
 * Hidden hero(ine)
-  * Seeking to ruin another's life
+  * Seeking to ruin protagonists life.
+    * Protagonist does not know who the hidden hero(ine) is directly, but
+      encountered them once before.
   * Uses mental influence to change situation outcome
   * Uses physical prowess to coerce protagonist perform desired tasks
-    * Martial prowess, former solider or military mind
-    * Trained with bladed weapons
-    * Passable with historical firearms or arketi-type weapons
+    * Martial prowess, former solider or warrior-type training
+    * Proficient, bordering on complete mastery with bladed weapons
+    * Passable with historical firearms or (details) arketi-type weapons
   * Deeply troubled individual, significant mental trauma
-    * Periodic mental breakdown
+    * (Depth needed here) Periodic mental breakdown
     * Frequent schizophrenic episodes
-    * Outright revulsion at intimate encounters
-    * 
+    * (Maybe?) Outright revulsion at intimate encounters

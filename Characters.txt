@@ -6,7 +6,7 @@
   * Uses physical prowess to coerce protagonist perform desired tasks
     * Martial prowess, former solider or warrior-type training
     * Proficient, bordering on complete mastery with bladed weapons
-    * Passable with historical firearms or (details) arketi-type weapons
+    * Passable with historical firearms or (details) arketchi-type weapons
   * Deeply troubled individual, significant mental trauma
     * (Depth needed here) Periodic mental breakdown
     * Frequent schizophrenic episodes

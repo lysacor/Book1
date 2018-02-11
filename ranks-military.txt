@@ -1,18 +1,19 @@
 1. Human Corrupters
-   1. Enlisted
+   1. Enlisted (overarch initiates and base classes)
       1. Cre-arch - private
       2. Arch - private first class
       3. Plaich - Seargent
       4. Trichal - Senior Seargent
       5. Chorla - Master Seargent
       6. Pyrian - Chief Master Seargent
-   2. Officer
+   2. Overarch Officers
       1. Pri-archa - Second Lieutenant
       2. Archa - Lieutenant
       3. Triy-archa - Captain
       4. Corrupter - Major
       5. Phaga - Colonel
       6. Maliosa - General
+   3. Evocators - Overarch Command Ranks
       7. Evocatia - Brigadier General
       8. Evocate - Major General
-      9. Essence-Evocator - Leader of darkness sect
+      9. Essence-Evocator - Leader of Overarch Sect

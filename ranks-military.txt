@@ -7,4 +7,12 @@
       5. Chorla - Master Seargent
       6. Pyrian - Chief Master Seargent
    2. Officer
-      1. 
+      1. Pri-archa - Second Lieutenant
+      2. Archa - Lieutenant
+      3. Triy-archa - Captain
+      4. Corrupter - Major
+      5. Phaga - Colonel
+      6. Maliosa - General
+      7. Evocatia - Brigadier General
+      8. Evocate - Major General
+      9. Essence-Evocator - Leader of darkness sect
